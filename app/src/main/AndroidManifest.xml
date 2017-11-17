@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".ChooseAnswer" />
-        <activity android:name=".StartScreen"></activity>
+        <activity android:name=".Start"></activity>
     </application>
 
 </manifest>

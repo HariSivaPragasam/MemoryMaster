@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MemoryMaster</string>
+    <string name="answer">Answer</string>
+    <string name="todo">TODO</string>
+    <string name="lets_go">Lets GO!</string>
+    <string name="play">Play</string>
+
+
 </resources>
